@@ -1,2 +1,2 @@
-# yodabytz.github-.io
+# yodabytz.github.io
 My Portfolio
