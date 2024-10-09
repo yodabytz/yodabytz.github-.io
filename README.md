@@ -118,4 +118,6 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 =======
 # yodabytz.github.io
 My Portfolio
+
+Welcome to my site. This is a work is progress.
 >>>>>>> d08a45bad58fbf6b6a8bb026b6c79aa6e156a1bd
