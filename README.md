@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Time machine theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
@@ -114,3 +115,7 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+=======
+# yodabytz.github.io
+My Portfolio
+>>>>>>> d08a45bad58fbf6b6a8bb026b6c79aa6e156a1bd
