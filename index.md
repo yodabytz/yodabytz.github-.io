@@ -15,3 +15,5 @@ Here is where I'll share my projects and updates.
 - [DiffAnywhere](https://github.com/yodabytz/diffanywhere)
 - [Snitch](https://github.com/yodabytz/snitch)
 - [ColorTail](https://github.com/yodabytz/colortail)
+- [snitch](https://github.com/yodabytz/snitch)
+- [CronoRSS](https://github.com/yodabytz/chronorss)
