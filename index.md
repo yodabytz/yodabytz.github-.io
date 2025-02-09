@@ -16,4 +16,4 @@ Here is where I'll share my projects and updates.
 - [Snitch](https://github.com/yodabytz/snitch)
 - [ColorTail](https://github.com/yodabytz/colortail)
 - [snitch](https://github.com/yodabytz/snitch)
-- [CronoRSS](https://github.com/yodabytz/chronorss)
+- [ChronoRSS](https://github.com/yodabytz/chronorss)
